@@ -1,0 +1,19 @@
+My associate id:
+844773
+Other team members:
+845103, 845100, 844773, 844774
+Team lead:
+844773
+My Role in team:
+1. To store objects in session 
+My development files:
+1. placeorder.js
+
+I was strong in:
+1. HTML
+2. Css
+3. Javascript
+I was weak in:
+1. UI
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
